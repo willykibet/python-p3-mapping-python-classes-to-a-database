@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+b#!/usr/bin/env python3
 
 from config import CONN, CURSOR
 from song import Song
